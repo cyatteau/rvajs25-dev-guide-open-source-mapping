@@ -19,6 +19,9 @@ This repository contains the presentation slides for **A Developer’s Guide to 
 
 - **Slides.pdf** – The full presentation slide deck in PDF format.
 
+## Demos
+- **Source code for all demos:** CodePen [collection](https://codepen.io/collection/pjJjMM)
+
 ## Additional Resources
 
 - **Leaflet:**  
